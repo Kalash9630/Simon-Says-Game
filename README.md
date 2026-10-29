@@ -2,6 +2,8 @@
 
 A simple and interactive memory game built using **HTML, CSS, and JavaScript**. The game challenges players to remember and repeat an increasingly longer sequence of button flashes as they progress through different levels.
 
+### 🚀 [Play Now](https://kalash9630.github.io/Simon-Says-Game/)
+
 ## 📌 About the Project
 
 The Simon Says Game is a browser-based game inspired by the classic Simon memory game. At each level, the game displays a sequence of flashing colors, and the player must repeat the sequence in the correct order.
